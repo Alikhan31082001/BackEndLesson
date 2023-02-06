@@ -1,0 +1,2 @@
+я хочу создать ретейл услуги
+сущности: retail, necessity, product, convienence
